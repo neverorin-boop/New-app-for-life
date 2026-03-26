@@ -12,7 +12,6 @@ function createWindow() {
       nodeIntegration: true,
       contextIsolation: false,
     },
-    icon: path.join(__dirname, '../public/icon.png'),
     title: "Vitalis Health Tracker"
   });
 
